@@ -1,0 +1,1071 @@
+[{
+  "_id": {
+    "$oid": "64c3fbb6e06a2c8754a91e0f"
+  },
+  "userId": "6454a6393cecc67bcc8f6918",
+  "emailId": "6454a6393cecc67bcc8f6918",
+  "oldStatus": "Inbox",
+  "newStatus": "Email Needed",
+  "changeTime": "1690565558343",
+  "createdAt": {
+    "$date": "2023-07-28T17:32:38.368Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T17:32:38.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c3fefbf6ad76c650b47ae7"
+  },
+  "userId": "64535a5f3be22e90ac289bdf",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Completed",
+  "newStatus": "Email Needed",
+  "changeTime": "1690566395947",
+  "createdAt": {
+    "$date": "2023-07-28T17:46:35.964Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T17:46:35.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c3ff0af6ad76c650b47af4"
+  },
+  "userId": "64535a5f3be22e90ac289bdf",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Email Needed",
+  "newStatus": "Pending",
+  "changeTime": "1690566410841",
+  "createdAt": {
+    "$date": "2023-07-28T17:46:50.852Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T17:46:50.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c405f788cf07889762c942"
+  },
+  "userId": "64535a5f3be22e90ac289be0",
+  "emailId": "64535a5f3be22e90ac289be0",
+  "oldStatus": "Discard",
+  "newStatus": "Pending",
+  "changeTime": "1690568183412",
+  "createdAt": {
+    "$date": "2023-07-28T18:16:23.433Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T18:16:23.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c406b488cf07889762c960"
+  },
+  "userId": "645364934bd493c08e97aeb8",
+  "emailId": "645364934bd493c08e97aeb8",
+  "oldStatus": "Pending",
+  "newStatus": "Discard",
+  "changeTime": "1690568372799",
+  "createdAt": {
+    "$date": "2023-07-28T18:19:32.810Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T18:19:32.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c408c488cf07889762c9ac"
+  },
+  "userId": "64535a5f3be22e90ac289bdf",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Pending",
+  "newStatus": "Discard",
+  "changeTime": "1690568900328",
+  "createdAt": {
+    "$date": "2023-07-28T18:28:20.340Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T18:28:20.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c4a4c819d3373a6617e73b"
+  },
+  "userId": "64535a5f3be22e90ac289bdf",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Completed",
+  "changeTime": "1690608840072",
+  "createdAt": {
+    "$date": "2023-07-29T05:34:00.091Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T05:34:00.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c4a4f819d3373a6617e74a"
+  },
+  "userId": "64536e3db0eb40c719efa5fa",
+  "emailId": "64536e3db0eb40c719efa5fa",
+  "oldStatus": "Assign",
+  "newStatus": "Pending",
+  "changeTime": "1690608888364",
+  "createdAt": {
+    "$date": "2023-07-29T05:34:48.374Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T05:34:48.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c9069c18c0d241d27e3f2b"
+  },
+  "userId": "64535a5f3be22e90ac289bdf",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Completed",
+  "newStatus": "Discard",
+  "changeTime": "1690896028035",
+  "createdAt": {
+    "$date": "2023-08-01T13:20:28.057Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-01T13:20:28.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c90bcb18c0d241d27e3f9e"
+  },
+  "userId": "6454a6393cecc67bcc8f691c",
+  "emailId": "6454a6393cecc67bcc8f691c",
+  "oldStatus": "",
+  "newStatus": "Email Needed",
+  "changeTime": "1690897355919",
+  "createdAt": {
+    "$date": "2023-08-01T13:42:35.931Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-01T13:42:35.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c9392d4a45f430c4648e2e"
+  },
+  "userId": "64c938e14a45f430c4648df9",
+  "emailId": "64c938e14a45f430c4648df9",
+  "oldStatus": "",
+  "newStatus": "Email Needed",
+  "changeTime": "1690908973549",
+  "createdAt": {
+    "$date": "2023-08-01T16:56:13.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-01T16:56:13.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c95932cee63c58346e3c8d"
+  },
+  "userId": "64c9573acee63c58346e3b1b",
+  "emailId": "64c9573acee63c58346e3b1b",
+  "oldStatus": "",
+  "newStatus": "Email Needed",
+  "changeTime": "1690917170333",
+  "createdAt": {
+    "$date": "2023-08-01T19:12:50.345Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-01T19:12:50.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c95947cee63c58346e3c98"
+  },
+  "userId": "64c9575acee63c58346e3b1e",
+  "emailId": "64c9575acee63c58346e3b1e",
+  "oldStatus": "",
+  "newStatus": "Email Needed",
+  "changeTime": "1690917191434",
+  "createdAt": {
+    "$date": "2023-08-01T19:13:11.444Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-01T19:13:11.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd301cb3950fc24ee5d8fe"
+  },
+  "userId": "64538e9d8aad8faa1d8c3c76",
+  "emailId": "64538e9d8aad8faa1d8c3c76",
+  "oldStatus": "",
+  "newStatus": "Inbox",
+  "changeTime": "1691168796938",
+  "createdAt": {
+    "$date": "2023-08-04T17:06:36.969Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T17:06:36.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd332eb3950fc24ee5d943"
+  },
+  "userId": "64535a5f3be22e90ac289bdf",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691169582501",
+  "createdAt": {
+    "$date": "2023-08-04T17:19:42.514Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T17:19:42.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd430d4443808492125ca4"
+  },
+  "userId": "64535a5f3be22e90ac289bdf",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691173645885",
+  "createdAt": {
+    "$date": "2023-08-04T18:27:25.906Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T18:27:25.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd432f4443808492125ca6"
+  },
+  "userId": "64535a5f3be22e90ac289bdf",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691173679634",
+  "createdAt": {
+    "$date": "2023-08-04T18:27:59.735Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T18:27:59.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd43654443808492125ca8"
+  },
+  "userId": "64535a5f3be22e90ac289bdf",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691173733170",
+  "createdAt": {
+    "$date": "2023-08-04T18:28:53.182Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T18:28:53.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd43e94443808492125cb6"
+  },
+  "userId": "64535a5f3be22e90ac289bdf",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691173865354",
+  "createdAt": {
+    "$date": "2023-08-04T18:31:05.368Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T18:31:05.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd44114443808492125cc7"
+  },
+  "userId": "645364934bd493c08e97aeb8",
+  "emailId": "645364934bd493c08e97aeb8",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691173905005",
+  "createdAt": {
+    "$date": "2023-08-04T18:31:45.016Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T18:31:45.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd443e4443808492125cca"
+  },
+  "userId": "645364934bd493c08e97aeb8",
+  "emailId": "645364934bd493c08e97aeb8",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691173950773",
+  "createdAt": {
+    "$date": "2023-08-04T18:32:30.783Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T18:32:30.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd45164443808492125cd2"
+  },
+  "userId": "645364934bd493c08e97aeb8",
+  "emailId": "645364934bd493c08e97aeb8",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691174166282",
+  "createdAt": {
+    "$date": "2023-08-04T18:36:06.292Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T18:36:06.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd455c4443808492125cd9"
+  },
+  "userId": "645364934bd493c08e97aeb8",
+  "emailId": "645364934bd493c08e97aeb8",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691174236841",
+  "createdAt": {
+    "$date": "2023-08-04T18:37:16.854Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T18:37:16.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd45bd4443808492125ce0"
+  },
+  "userId": "645364934bd493c08e97aeb8",
+  "emailId": "645364934bd493c08e97aeb8",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691174333032",
+  "createdAt": {
+    "$date": "2023-08-04T18:38:53.043Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T18:38:53.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd46764443808492125ce7"
+  },
+  "userId": "645364934bd493c08e97aeb8",
+  "emailId": "645364934bd493c08e97aeb8",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691174518511",
+  "createdAt": {
+    "$date": "2023-08-04T18:41:58.523Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T18:41:58.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd46a44443808492125cee"
+  },
+  "userId": "645364934bd493c08e97aeb8",
+  "emailId": "645364934bd493c08e97aeb8",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691174564246",
+  "createdAt": {
+    "$date": "2023-08-04T18:42:44.257Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T18:42:44.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd46e84443808492125cf6"
+  },
+  "userId": "645364934bd493c08e97aeb8",
+  "emailId": "645364934bd493c08e97aeb8",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691174632755",
+  "createdAt": {
+    "$date": "2023-08-04T18:43:52.766Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T18:43:52.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cd4a4b4443808492125d1d"
+  },
+  "userId": "64535a5f3be22e90ac289bdf",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691175499471",
+  "createdAt": {
+    "$date": "2023-08-04T18:58:19.477Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-04T18:58:19.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cfda04d9e9c60338b2ad5d"
+  },
+  "userId": "64535a5f3be22e90ac289bdf",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691343364945",
+  "createdAt": {
+    "$date": "2023-08-06T17:36:04.965Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-06T17:36:04.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cfdcc0d9e9c60338b2adaf"
+  },
+  "userId": "64535a5f3be22e90ac289bdf",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691344064230",
+  "createdAt": {
+    "$date": "2023-08-06T17:47:44.246Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-06T17:47:44.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cfdd1fd9e9c60338b2adc5"
+  },
+  "userId": "64535a5f3be22e90ac289be0",
+  "emailId": "64535a5f3be22e90ac289be0",
+  "oldStatus": "Pending",
+  "newStatus": "Pending",
+  "changeTime": "1691344159490",
+  "createdAt": {
+    "$date": "2023-08-06T17:49:19.500Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-06T17:49:19.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cfdd2bd9e9c60338b2add4"
+  },
+  "userId": "64535a5f3be22e90ac289be0",
+  "emailId": "64535a5f3be22e90ac289be0",
+  "oldStatus": "Pending",
+  "newStatus": "Discard",
+  "changeTime": "1691344171540",
+  "createdAt": {
+    "$date": "2023-08-06T17:49:31.550Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-06T17:49:31.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cfe79ad9e9c60338b2ae0c"
+  },
+  "userId": "64538e9d8aad8faa1d8c3c76",
+  "emailId": "64538e9d8aad8faa1d8c3c76",
+  "oldStatus": "Inbox",
+  "newStatus": "Inbox",
+  "changeTime": "1691346842434",
+  "createdAt": {
+    "$date": "2023-08-06T18:34:02.448Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-06T18:34:02.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d075ced9e9c60338b2ae50"
+  },
+  "userId": "64538a5397d91c1cfd793be4",
+  "emailId": "64538a5397d91c1cfd793be4",
+  "oldStatus": "Keep on Hold",
+  "newStatus": "Completed",
+  "changeTime": "1691383246655",
+  "createdAt": {
+    "$date": "2023-08-07T04:40:46.666Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-07T04:40:46.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d2150746aa5cf9a68345ba"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64535a5f3be22e90ac289be0",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691489543873",
+  "createdAt": {
+    "$date": "2023-08-08T10:12:23.885Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-08T10:12:23.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d5d885e05a1c28d2514ca6"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691736197285",
+  "createdAt": {
+    "$date": "2023-08-11T06:43:17.303Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-11T06:43:17.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d5d8a4e05a1c28d2514cbb"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64535a5f3be22e90ac289be0",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691736228845",
+  "createdAt": {
+    "$date": "2023-08-11T06:43:48.856Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-11T06:43:48.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d9d52890355ab0a35c2189"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691997480300",
+  "createdAt": {
+    "$date": "2023-08-14T07:18:00.333Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T07:18:00.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d9d64190355ab0a35c21db"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1691997761176",
+  "createdAt": {
+    "$date": "2023-08-14T07:22:41.188Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T07:22:41.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d9ecbd90355ab0a35c21e8"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1692003517510",
+  "createdAt": {
+    "$date": "2023-08-14T08:58:37.520Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T08:58:37.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d9ed3090355ab0a35c21f8"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1692003632569",
+  "createdAt": {
+    "$date": "2023-08-14T09:00:32.579Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T09:00:32.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d9ed8230559f36b52abcec"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1692003714541",
+  "createdAt": {
+    "$date": "2023-08-14T09:01:54.564Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T09:01:54.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dbb86030559f36b52ac094"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64538e9d8aad8faa1d8c3c76",
+  "oldStatus": "Inbox",
+  "newStatus": "Inbox",
+  "changeTime": "1692121184720",
+  "createdAt": {
+    "$date": "2023-08-15T17:39:44.739Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T17:39:44.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dbbd4630559f36b52ac130"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "645364934bd493c08e97aeb8",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1692122438768",
+  "createdAt": {
+    "$date": "2023-08-15T18:00:38.781Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T18:00:38.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dbbfee30559f36b52ac141"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "645364934bd493c08e97aeb8",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1692123118378",
+  "createdAt": {
+    "$date": "2023-08-15T18:11:58.393Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T18:11:58.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dbbffe30559f36b52ac14e"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "645364934bd493c08e97aeb8",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1692123134164",
+  "createdAt": {
+    "$date": "2023-08-15T18:12:14.176Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T18:12:14.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dbc00a30559f36b52ac15b"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "645364934bd493c08e97aeb8",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1692123146199",
+  "createdAt": {
+    "$date": "2023-08-15T18:12:26.212Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T18:12:26.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dbc7eb30559f36b52ac359"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64d5ddd9e05a1c28d2514e09",
+  "oldStatus": "Inbox",
+  "newStatus": "Inbox",
+  "changeTime": "1692125163971",
+  "createdAt": {
+    "$date": "2023-08-15T18:46:03.994Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T18:46:03.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dbc80330559f36b52ac364"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64536e3db0eb40c719efa5fa",
+  "oldStatus": "Pending",
+  "newStatus": "Pending",
+  "changeTime": "1692125187591",
+  "createdAt": {
+    "$date": "2023-08-15T18:46:27.603Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T18:46:27.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dbc84130559f36b52ac370"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64536e3db0eb40c719efa5fa",
+  "oldStatus": "Pending",
+  "newStatus": "Pending",
+  "changeTime": "1692125249128",
+  "createdAt": {
+    "$date": "2023-08-15T18:47:29.141Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T18:47:29.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dbc8b530559f36b52ac3b9"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64536e3db0eb40c719efa5fa",
+  "oldStatus": "Pending",
+  "newStatus": "Pending",
+  "changeTime": "1692125365313",
+  "createdAt": {
+    "$date": "2023-08-15T18:49:25.326Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-15T18:49:25.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ddca5ef28b64f55b4eeb0f"
+  },
+  "userId": "64a05135ef4a457d7d0991c9",
+  "emailId": "64ddc55af28b64f55b4eeac2",
+  "oldStatus": "Inbox",
+  "newStatus": "Inbox",
+  "changeTime": "1692256862032",
+  "createdAt": {
+    "$date": "2023-08-17T07:21:02.043Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-17T07:21:02.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e1fb9ff75ff0b39eeca3d5"
+  },
+  "userId": "64a051cf1f1eb124341d7c0d",
+  "emailId": "64538e9d8aad8faa1d8c3c76",
+  "oldStatus": "Inbox",
+  "newStatus": "Inbox",
+  "changeTime": "1692531615040",
+  "createdAt": {
+    "$date": "2023-08-20T11:40:15.065Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T11:40:15.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e1fc39f75ff0b39eeca3e0"
+  },
+  "userId": "64a051cf1f1eb124341d7c0d",
+  "emailId": "64538e9d8aad8faa1d8c3c76",
+  "oldStatus": "Inbox",
+  "newStatus": "Inbox",
+  "changeTime": "1692531769708",
+  "createdAt": {
+    "$date": "2023-08-20T11:42:49.719Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T11:42:49.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e1fc4ff75ff0b39eeca3eb"
+  },
+  "userId": "64a051cf1f1eb124341d7c0d",
+  "emailId": "64d5ddd9e05a1c28d2514e09",
+  "oldStatus": "Inbox",
+  "newStatus": "Inbox",
+  "changeTime": "1692531791428",
+  "createdAt": {
+    "$date": "2023-08-20T11:43:11.444Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T11:43:11.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e1fd80f75ff0b39eeca4ad"
+  },
+  "userId": "64a051cf1f1eb124341d7c0d",
+  "emailId": "64535a5f3be22e90ac289bdf",
+  "oldStatus": "Discard",
+  "newStatus": "Discard",
+  "changeTime": "1692532096452",
+  "createdAt": {
+    "$date": "2023-08-20T11:48:16.464Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T11:48:16.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e20110f75ff0b39eeca693"
+  },
+  "userId": "64a051cf1f1eb124341d7c0d",
+  "emailId": "64538e9d8aad8faa1d8c3c76",
+  "oldStatus": "Inbox",
+  "newStatus": "Inbox",
+  "changeTime": "1692533008861",
+  "createdAt": {
+    "$date": "2023-08-20T12:03:28.874Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T12:03:28.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e2011bf75ff0b39eeca69e"
+  },
+  "userId": "64a051cf1f1eb124341d7c0d",
+  "emailId": "64d5ddd9e05a1c28d2514e09",
+  "oldStatus": "Inbox",
+  "newStatus": "Inbox",
+  "changeTime": "1692533019306",
+  "createdAt": {
+    "$date": "2023-08-20T12:03:39.315Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T12:03:39.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e20126f75ff0b39eeca6a9"
+  },
+  "userId": "64a051cf1f1eb124341d7c0d",
+  "emailId": "64ddc55af28b64f55b4eeac2",
+  "oldStatus": "Inbox",
+  "newStatus": "Inbox",
+  "changeTime": "1692533029994",
+  "createdAt": {
+    "$date": "2023-08-20T12:03:50.004Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T12:03:50.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e201f9f75ff0b39eeca72f"
+  },
+  "userId": "64a051cf1f1eb124341d7c0d",
+  "emailId": "64538e9d8aad8faa1d8c3c76",
+  "oldStatus": "Inbox",
+  "newStatus": "Inbox",
+  "changeTime": "1692533241833",
+  "createdAt": {
+    "$date": "2023-08-20T12:07:21.863Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T12:07:21.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e245c337a555f1476b94d3"
+  },
+  "userId": "64a051cf1f1eb124341d7c0d",
+  "emailId": "64538e9d8aad8faa1d8c3c76",
+  "oldStatus": "Inbox",
+  "newStatus": "Inbox",
+  "changeTime": "1692550595756",
+  "createdAt": {
+    "$date": "2023-08-20T16:56:35.773Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T16:56:35.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e8428d9c5567f3b269b811"
+  },
+  "userId": "64a051cf1f1eb124341d7c0d",
+  "emailId": "64ddc55af28b64f55b4eeac2",
+  "oldStatus": "Inbox",
+  "newStatus": "Completed",
+  "changeTime": "1692942989644",
+  "createdAt": {
+    "$date": "2023-08-25T05:56:29.656Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-25T05:56:29.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e842c99c5567f3b269b82a"
+  },
+  "userId": "64a051cf1f1eb124341d7c0d",
+  "emailId": "64538a5397d91c1cfd793be4",
+  "oldStatus": "Completed",
+  "newStatus": "Completed",
+  "changeTime": "1692943049076",
+  "createdAt": {
+    "$date": "2023-08-25T05:57:29.089Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-25T05:57:29.089Z"
+  },
+  "__v": 0
+}]

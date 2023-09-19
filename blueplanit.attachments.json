@@ -1,0 +1,320 @@
+[{
+  "_id": {
+    "$oid": "64b11e0404995589c435b6b9"
+  },
+  "userId": "64535a5f3be22e90ac289be0",
+  "emailId": "64535a5f3be22e90ac289be0",
+  "data": "http://localhost:5001/uploads/1689329156188-icons8-place-marker-64.png",
+  "filename": "icons8-place-marker-64.png",
+  "mimetype": "icons8-place-marker-64.png",
+  "addDate": "1689329156195",
+  "updateDate": "1689329156195",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-07-14T10:05:56.213Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T10:05:56.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b11e0404995589c435b6bb"
+  },
+  "userId": "64535a5f3be22e90ac289be0",
+  "emailId": "64535a5f3be22e90ac289be0",
+  "data": "http://localhost:5001/uploads/1689329156189-icons8-visit-48.png",
+  "filename": "icons8-visit-48.png",
+  "mimetype": "icons8-visit-48.png",
+  "addDate": "1689329156200",
+  "updateDate": "1689329156200",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-07-14T10:05:56.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T10:05:56.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b11ef804995589c435b6f5"
+  },
+  "userId": "645370b3dd122e9cd34e33b2",
+  "emailId": "645370b3dd122e9cd34e33b2",
+  "data": "http://localhost:5001/uploads/1689329400478-icons8-visit-48.png",
+  "filename": "icons8-visit-48.png",
+  "mimetype": "icons8-visit-48.png",
+  "addDate": "1689329400490",
+  "updateDate": "1689329400490",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-07-14T10:10:00.516Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T10:10:00.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b11ef804995589c435b6f7"
+  },
+  "userId": "645370b3dd122e9cd34e33b2",
+  "emailId": "645370b3dd122e9cd34e33b2",
+  "data": "http://localhost:5001/uploads/1689329400479-sample.pdf",
+  "filename": "sample.pdf",
+  "mimetype": "sample.pdf",
+  "addDate": "1689329400500",
+  "updateDate": "1692855709246",
+  "status": false,
+  "createdAt": {
+    "$date": "2023-07-14T10:10:00.522Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-24T05:41:49.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b11f0704995589c435b6f9"
+  },
+  "userId": "645370b3dd122e9cd34e33b2",
+  "emailId": "645370b3dd122e9cd34e33b2",
+  "data": "http://localhost:5001/uploads/1689329415146-sample.pdf",
+  "filename": "sample.pdf",
+  "mimetype": "sample.pdf",
+  "addDate": "1689329415150",
+  "updateDate": "1689329415150",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-07-14T10:10:15.163Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T10:10:15.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b11f1904995589c435b6fb"
+  },
+  "userId": "645370b3dd122e9cd34e33b2",
+  "emailId": "645370b3dd122e9cd34e33b2",
+  "data": "http://localhost:5001/uploads/1689329433297-icons8-visit-48.png",
+  "filename": "icons8-visit-48.png",
+  "mimetype": "icons8-visit-48.png",
+  "addDate": "1689329433302",
+  "updateDate": "1689329433302",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-07-14T10:10:33.315Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T10:10:33.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b120fbf218e5565c209aab"
+  },
+  "userId": "645370b3dd122e9cd34e33b1",
+  "emailId": "645370b3dd122e9cd34e33b1",
+  "data": "http://localhost:5001/uploads/1689329915487-group.jpg",
+  "filename": "group.jpg",
+  "mimetype": "image/jpeg",
+  "addDate": "1689329915495",
+  "updateDate": "1689329915495",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-07-14T10:18:35.521Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T10:18:35.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b12223f218e5565c209ab5"
+  },
+  "userId": "645370b3dd122e9cd34e33b1",
+  "emailId": "645370b3dd122e9cd34e33b1",
+  "data": "http://localhost:5001/uploads/1689330211761-group.jpg",
+  "filename": "group.jpg",
+  "mimetype": "image/jpeg",
+  "addDate": "1689330211771",
+  "updateDate": "1689332874353",
+  "status": false,
+  "createdAt": {
+    "$date": "2023-07-14T10:23:31.783Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T11:07:54.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b12228f218e5565c209ab7"
+  },
+  "userId": "645370b3dd122e9cd34e33b1",
+  "emailId": "645370b3dd122e9cd34e33b1",
+  "data": "http://localhost:5001/uploads/1689330216176-group.jpg",
+  "filename": "group.jpg",
+  "mimetype": "image/jpeg",
+  "addDate": "1689330216186",
+  "updateDate": "1689330216186",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-07-14T10:23:36.197Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T10:23:36.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b12a32f218e5565c209ae1"
+  },
+  "userId": "645370b3dd122e9cd34e33b1",
+  "emailId": "645370b3dd122e9cd34e33b1",
+  "data": "http://localhost:5001/uploads/1689332274143-ic1.png",
+  "filename": "ic1.png",
+  "mimetype": "image/png",
+  "addDate": "1689332274268",
+  "updateDate": "1689332274268",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-07-14T10:57:54.281Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T10:57:54.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b16577d6d6dc6571624662"
+  },
+  "userId": "64538a5397d91c1cfd793be1",
+  "emailId": "64538a5397d91c1cfd793be1",
+  "data": "http://localhost:5001/uploads/1689347447532-group.jpg",
+  "filename": "group.jpg",
+  "mimetype": "image/jpeg",
+  "addDate": "1689347447629",
+  "updateDate": "1689347447629",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-07-14T15:10:47.642Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T15:10:47.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b16625d6d6dc6571624690"
+  },
+  "userId": "64538a5397d91c1cfd793be1",
+  "emailId": "64538a5397d91c1cfd793be1",
+  "data": "http://localhost:5001/uploads/1689347621147-ic1.png",
+  "filename": "ic1.png",
+  "mimetype": "image/png",
+  "addDate": "1689347621237",
+  "updateDate": "1689347690622",
+  "status": false,
+  "createdAt": {
+    "$date": "2023-07-14T15:13:41.247Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T15:14:50.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b16664d6d6dc6571624696"
+  },
+  "userId": "64538a5397d91c1cfd793be1",
+  "emailId": "64538a5397d91c1cfd793be1",
+  "data": "http://localhost:5001/uploads/1689347683924-ic1.png",
+  "filename": "ic1.png",
+  "mimetype": "image/png",
+  "addDate": "1689347684034",
+  "updateDate": "1689347684034",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-07-14T15:14:44.044Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T15:14:44.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b16682d6d6dc65716246a0"
+  },
+  "userId": "64538a5397d91c1cfd793be1",
+  "emailId": "64538a5397d91c1cfd793be1",
+  "data": "http://localhost:5001/uploads/1689347714594-group.jpg",
+  "filename": "group.jpg",
+  "mimetype": "image/jpeg",
+  "addDate": "1689347714611",
+  "updateDate": "1689347714611",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-07-14T15:15:14.626Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T15:15:14.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b16682d6d6dc65716246a2"
+  },
+  "userId": "64538a5397d91c1cfd793be1",
+  "emailId": "64538a5397d91c1cfd793be1",
+  "data": "http://localhost:5001/uploads/1689347714595-ic1.png",
+  "filename": "ic1.png",
+  "mimetype": "image/png",
+  "addDate": "1689347714614",
+  "updateDate": "1689347714614",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-07-14T15:15:14.633Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T15:15:14.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b16682d6d6dc65716246a4"
+  },
+  "userId": "64538a5397d91c1cfd793be1",
+  "emailId": "64538a5397d91c1cfd793be1",
+  "data": "http://localhost:5001/uploads/1689347714595-ic.png",
+  "filename": "ic.png",
+  "mimetype": "image/png",
+  "addDate": "1689347714612",
+  "updateDate": "1689347714612",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-07-14T15:15:14.640Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T15:15:14.640Z"
+  },
+  "__v": 0
+}]

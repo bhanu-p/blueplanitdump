@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "6493373febe83378e20458cf"
+  },
+  "quoteType": "New",
+  "department": "Personal",
+  "insuredName": "Bhanu2",
+  "propertyType": "Home",
+  "noofQuotes": 5,
+  "createdAt": {
+    "$date": "2023-06-21T17:45:35.318Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-21T17:45:35.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6494994a204caaa0ecb54c03"
+  },
+  "quoteType": "New",
+  "department": "Personal Line",
+  "insuredName": "bhanu",
+  "noofQuotes": 4,
+  "radioValue": "",
+  "priority": "",
+  "processType": "",
+  "assignedTo": "",
+  "assignTo": "",
+  "startDate": "",
+  "dueDate": "",
+  "requestStatus": "",
+  "radioInfo": "",
+  "emailSummary": "",
+  "requestor": "",
+  "sendTo": "",
+  "createdAt": {
+    "$date": "2023-06-22T18:56:10.565Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-22T18:56:10.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6497313248b39f03588c1ada"
+  },
+  "quoteType": "New",
+  "department": "Personal Line",
+  "insuredName": "bhanu",
+  "noofQuotes": 4,
+  "radioValue": "(HO6) Condo",
+  "priority": "On Demand 1",
+  "processType": "Policy Quote 1",
+  "assignedTo": "User One",
+  "assignTo": "User One",
+  "startDate": "",
+  "dueDate": "",
+  "requestStatus": "Opened",
+  "radioInfo": "Keep on Hold",
+  "emailSummary": "email",
+  "requestor": "bhanu",
+  "sendTo": "prakash",
+  "createdAt": {
+    "$date": "2023-06-24T18:08:50.232Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-24T18:08:50.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6497349948b39f03588c1add"
+  },
+  "quoteType": "Renewal / Re-Quote",
+  "department": "Commercial Lines",
+  "insuredName": "bhanu",
+  "noofQuotes": 7,
+  "radioValue": "(DP3) Dwelling Fire",
+  "priority": "On Demand 2",
+  "processType": "Policy Quote 1",
+  "assignedTo": "User Three",
+  "assignTo": "User Two",
+  "startDate": "2023-05-31T18:30:00.000Z",
+  "dueDate": "2023-06-13T18:30:00.000Z",
+  "requestStatus": "In Progress",
+  "radioInfo": "Keep on Hold",
+  "emailSummary": "email",
+  "requestor": "bhanu",
+  "sendTo": "prakash",
+  "createdAt": {
+    "$date": "2023-06-24T18:23:21.287Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-24T18:23:21.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6497443f19492547f7261d21"
+  },
+  "quoteType": "New",
+  "department": "Commercial Lines",
+  "insuredName": "bhanu",
+  "noofQuotes": 7,
+  "radioValue": "(HO5) Home Owners with higher Dwelling Limit",
+  "priority": "On Demand 1",
+  "processType": "Policy Quote 2",
+  "assignedTo": "User Two",
+  "assignTo": "User Two",
+  "startDate": "2023-06-01T18:30:00.000Z",
+  "dueDate": "2023-06-09T18:30:00.000Z",
+  "requestStatus": "In Progress",
+  "radioInfo": "Response Received",
+  "emailSummary": "test email",
+  "requestor": "bhanu",
+  "sendTo": "prakash",
+  "attachments": [
+    "1.PNG"
+  ],
+  "createdAt": {
+    "$date": "2023-06-24T19:30:07.847Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-24T19:30:07.847Z"
+  },
+  "__v": 0
+}]
